@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Akshay Kumar
+LinkedIn URL: https://www.linkedin.com/in/akshay-singh-aa1373268/
+
